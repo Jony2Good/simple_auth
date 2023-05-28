@@ -1,0 +1,17 @@
+{
+    "name": "auth/app",
+    "description": "authorization",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Auth\\App\\": "app/Models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yes"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
